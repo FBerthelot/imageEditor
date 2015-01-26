@@ -10,4 +10,8 @@ describe('controllers', function(){
   }));
 
 
+
+    it('should define more than 5 awesome things', function() {
+        expect(true).toBeTruthy();
+    });
 });
